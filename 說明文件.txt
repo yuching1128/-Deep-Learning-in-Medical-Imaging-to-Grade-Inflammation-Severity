@@ -1,0 +1,15 @@
+CNN架構有兩個
+分別是CNN-1 & CNN-2
+
+CNN-1:
+graph_CNN1.py (訓練程式)
+graph_CNN1.h5 (權重)
+CNN1_final.py (測試檔)
+dataset_CNN1  (訓練資料集)
+
+
+CNN-2:
+graph_S226.py (訓練程式)
+graph_S226.h5 (權重)
+CNN_final.py (測試檔)
+dataset_S224  (訓練資料集)
