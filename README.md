@@ -11,6 +11,7 @@ Original ultrasound images contain redundant information around the biceps area,
 
 ##  • Data Preprocessing
 ![image](https://user-images.githubusercontent.com/39873770/194943175-fd63b3d4-940b-40b0-872b-20df88033543.png)
+
 (a) Target image. (b) Original image. (c) Image obtained after normalization
 
 Inconsistencies such as different deflection angles, depths, and brightness may be present in ultrasound images. These inconsistencies can influence classification performance. Therefore, image normalization should be conducted to address such inconsistencies. The normalized image is shown to be clearer than the original image.
