@@ -16,3 +16,7 @@ Original ultrasound images contain redundant information around the biceps area,
 
 Inconsistencies such as different deflection angles, depths, and brightness may be present in ultrasound images. These inconsistencies can influence classification performance. Therefore, image normalization should be conducted to address such inconsistencies. The normalized image is shown to be clearer than the original image.
  
+## • Built the deep learning model for classifying BPE severity using CNN
+![image](https://user-images.githubusercontent.com/39873770/194944248-c204f542-8ee6-42c4-b4ba-531c45fd80b6.png)
+
+CNN was implemented through TensorFlow and Keras using the Python programming language. The proposed system attained the highest accuracy (0.75) in the classification situation involving three severity levels—normal, moderate, and severe.
